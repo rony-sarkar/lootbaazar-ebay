@@ -62,9 +62,15 @@ img {
 }
 
 .wel-come {
-    padding: 20px 0;
-    font-weight: 600;
-    text-align: center;
+	padding: 39px 0;
+	font-weight: 600;
+	text-align: center;
+}
+
+.wel-come h2 {
+	color: #fff;
+	font-size: 34px;
+	font-weight: bold;
 }
 
 .wel-come span {
