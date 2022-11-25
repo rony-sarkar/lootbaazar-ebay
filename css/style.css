@@ -95,7 +95,11 @@ img {
 .logo img {
     width: 300px;
 }
-
+.support-info {
+	border-radius: 10px;
+	background-color: #fff;
+	padding: 5px;
+}
 /*======================== Menu Design ==================*/
 
 #menu-switcher,
