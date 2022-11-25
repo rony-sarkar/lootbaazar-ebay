@@ -105,6 +105,10 @@ img {
 	background-color: #fff;
 	padding: 15px;
 }
+.lootbazar-logo img {
+	background-color: transparent;
+	padding: 39px 0;
+}
 /*======================== Menu Design ==================*/
 
 #menu-switcher,
