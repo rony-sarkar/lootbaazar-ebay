@@ -30,6 +30,12 @@
     body {
         font-size: 12px;
     }
+	
+	.wel-come h2 {
+	color: #fff;
+	font-size: 29px;
+	font-weight: bold;
+}
 
     .logo {
         text-align: center;
