@@ -117,7 +117,9 @@
         font-size: 12px;
     }
 
-
+.wel-come h2 {
+	font-size: 20px;
+}
     .sub-btn {
         margin-top: 0;
         margin-bottom: 20px !important;
