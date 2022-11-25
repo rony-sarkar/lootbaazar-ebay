@@ -64,6 +64,7 @@ img {
 .wel-come {
 	font-weight: 600;
 	text-align: center;
+	padding: 14px 0;
 }
 
 .wel-come h2 {
@@ -93,8 +94,12 @@ img {
 }
 
 .logo img {
-    width: 300px;
+	width: 300px;
+	padding: 12px 0;
+	background-color: #fff;
+	border-radius: 15px;
 }
+
 .support-info {
 	border-radius: 10px;
 	background-color: #fff;
