@@ -131,7 +131,10 @@
     .logo img {
         width: 200px;
     }
-
+.support-info {
+	width: 200px;
+	margin: 0 auto;
+}
     .support-box {
         display: none;
     }
